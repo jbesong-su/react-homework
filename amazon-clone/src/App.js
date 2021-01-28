@@ -13,12 +13,84 @@ function App() {
         <Route path="/checkout">
           <h1>checkout</h1>
         </Route>
-        <Route path='/Login'>
+        <Route path='/login'>
           <h1>Login page</h1>
         </Route>
         {/*Default route below*/}
         <Route path='/'>
           <Header/>
+          <h1>HOME PAGE!!!</h1>
+          <h1>HOME PAGE!!!</h1>
+          <h1>HOME PAGE!!!</h1>
+          <h1>HOME PAGE!!!</h1>
+          <h1>HOME PAGE!!!</h1>
+          <h1>HOME PAGE!!!</h1>
+          <h1>HOME PAGE!!!</h1>
+
+          <h1>HOME PAGE!!!</h1>
+          <h1>HOME PAGE!!!</h1>
+          <h1>HOME PAGE!!!</h1>
+          <h1>HOME PAGE!!!</h1>
+          <h1>HOME PAGE!!!</h1>
+          <h1>HOME PAGE!!!</h1>
+          <h1>HOME PAGE!!!</h1>
+          <h1>HOME PAGE!!!</h1>
+
+          <h1>HOME PAGE!!!</h1>
+          <h1>HOME PAGE!!!</h1>
+          <h1>HOME PAGE!!!</h1>
+          <h1>HOME PAGE!!!</h1>
+          <h1>HOME PAGE!!!</h1>
+          <h1>HOME PAGE!!!</h1>
+          <h1>HOME PAGE!!!</h1>
+          <h1>HOME PAGE!!!</h1>
+
+          <h1>HOME PAGE!!!</h1>
+          <h1>HOME PAGE!!!</h1>
+          <h1>HOME PAGE!!!</h1>
+          <h1>HOME PAGE!!!</h1>
+          <h1>HOME PAGE!!!</h1>
+          <h1>HOME PAGE!!!</h1>
+          <h1>HOME PAGE!!!</h1>
+          <h1>HOME PAGE!!!</h1>
+
+          <h1>HOME PAGE!!!</h1>
+          <h1>HOME PAGE!!!</h1>
+          <h1>HOME PAGE!!!</h1>
+          <h1>HOME PAGE!!!</h1>
+          <h1>HOME PAGE!!!</h1>
+          <h1>HOME PAGE!!!</h1>
+          <h1>HOME PAGE!!!</h1>
+          <h1>HOME PAGE!!!</h1>
+
+          <h1>HOME PAGE!!!</h1>
+          <h1>HOME PAGE!!!</h1>
+          <h1>HOME PAGE!!!</h1>
+          <h1>HOME PAGE!!!</h1>
+          <h1>HOME PAGE!!!</h1>
+          <h1>HOME PAGE!!!</h1>
+          <h1>HOME PAGE!!!</h1>
+          <h1>HOME PAGE!!!</h1>
+
+          <h1>HOME PAGE!!!</h1>
+
+          <h1>HOME PAGE!!!</h1>
+          <h1>HOME PAGE!!!</h1>
+          <h1>HOME PAGE!!!</h1>
+          <h1>HOME PAGE!!!</h1>
+          <h1>HOME PAGE!!!</h1>
+          <h1>HOME PAGE!!!</h1>
+          <h1>HOME PAGE!!!</h1>
+
+          <h1>HOME PAGE!!!</h1>
+          <h1>HOME PAGE!!!</h1>
+          <h1>HOME PAGE!!!</h1>
+          <h1>HOME PAGE!!!</h1>
+          <h1>HOME PAGE!!!</h1>
+          <h1>HOME PAGE!!!</h1>
+          <h1>HOME PAGE!!!</h1>
+          <h1>HOME PAGE!!!</h1>
+
           <h1>HOME PAGE!!!</h1>
         </Route>
       </Switch>
