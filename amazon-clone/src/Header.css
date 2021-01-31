@@ -1,10 +1,11 @@
 .header {
-    background-color: #131921;
+    background-color: #1d2836;
     display: flex;
     align-items: center;
     position: sticky;
     top: 0;
     z-index: 100;
+
 }
 
 .header_logo{
